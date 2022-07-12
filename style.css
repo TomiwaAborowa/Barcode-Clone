@@ -1,0 +1,41 @@
+
+
+body{
+    margin: 75px;
+    padding: 0px;
+    background-color: hsl(212, 45%, 89%);
+}
+ 
+.barcode-box {
+    background-color: hsl(0, 0%, 100%) ;
+    width: 300px;
+    margin: auto;  
+    height: auto;  
+    text-align: center;  
+    padding: 5px;  
+    border: 5px solid white;  
+    border-radius: 5%;
+}
+
+.first {
+ font-family: 'Montserrat', sans-serif;
+ font-size: 15px;
+ font-weight: 700;
+ text-align: center;
+ color: hsl(218, 44%, 22%);
+}
+.last {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+    color: hsl(220, 15%, 55%);
+}
+.center {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 300px;
+    border-radius: 3%;
+  }
